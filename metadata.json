@@ -1,0 +1,8 @@
+
+{
+  "name": "Telegram Music Bot Studio",
+  "description": "A comprehensive developer dashboard to design, configure, and generate code for a Telegram music bot that plays songs in voice chats.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
